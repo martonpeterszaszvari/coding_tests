@@ -1,0 +1,9 @@
+8
+Z1 Zeta
+A1 Alpha
+Z2 Zeta
+A2 Alpha
+B1 Beta
+Z3 Zeta
+A3 Alpha
+B2 Beta

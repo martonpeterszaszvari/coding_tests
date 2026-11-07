@@ -1,0 +1,1 @@
+-- Write your SQL query below. Do not change the table definitions or expected files.

@@ -1,0 +1,11 @@
+INSERT INTO products VALUES (10, 'Spare', 3.00, 1);
+INSERT INTO products VALUES (20, 'Notebook', 6.00, 1);
+INSERT INTO products VALUES (30, 'Other', 9.00, 0);
+INSERT INTO wishlists VALUES (20, 'sample1@example.com');
+INSERT INTO wishlists VALUES (20, 'sample2@example.com');
+INSERT INTO wishlists VALUES (20, 'sample3@example.com');
+INSERT INTO wishlists VALUES (20, 'sample4@example.com');
+INSERT INTO wishlists VALUES (20, 'sample5@example.com');
+INSERT INTO wishlists VALUES (20, 'sample6@example.com');
+INSERT INTO wishlists VALUES (30, 'sample7@example.com');
+INSERT INTO wishlists VALUES (30, 'sample8@example.com');

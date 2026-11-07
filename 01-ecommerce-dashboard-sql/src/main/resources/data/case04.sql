@@ -1,0 +1,14 @@
+INSERT INTO products VALUES (1, 'Red', 1.00, 1);
+INSERT INTO products VALUES (2, 'Blue', 2.00, 1);
+INSERT INTO products VALUES (3, 'Green', 3.00, 0);
+INSERT INTO products VALUES (4, 'Yellow', 4.00, 0);
+INSERT INTO wishlists VALUES (1, 'sample1@example.com');
+INSERT INTO wishlists VALUES (2, 'sample2@example.com');
+INSERT INTO wishlists VALUES (2, 'sample3@example.com');
+INSERT INTO wishlists VALUES (2, 'sample4@example.com');
+INSERT INTO wishlists VALUES (3, 'sample5@example.com');
+INSERT INTO wishlists VALUES (3, 'sample6@example.com');
+INSERT INTO wishlists VALUES (3, 'sample7@example.com');
+INSERT INTO wishlists VALUES (3, 'sample8@example.com');
+INSERT INTO wishlists VALUES (4, 'sample9@example.com');
+INSERT INTO wishlists VALUES (4, 'sample10@example.com');

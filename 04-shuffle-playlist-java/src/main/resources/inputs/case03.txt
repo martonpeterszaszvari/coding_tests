@@ -1,0 +1,7 @@
+6
+C1 Charlie
+A1 Alpha
+B1 Bravo
+A2 Alpha
+B2 Bravo
+C2 Charlie
